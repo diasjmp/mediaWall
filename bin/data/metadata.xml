@@ -1,0 +1,616 @@
+<FILE>
+    <FILENAME>2_Faces_Test.jpg</FILENAME>
+    <luminance>165.712738037</luminance>
+    <color>
+        <RED>168</RED>
+        <GREEN>165</GREEN>
+        <BLUE>163</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>2</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.014935898</VERTICAL>
+        <HORIZONTAL>0.010998169</HORIZONTAL>
+        <DEGREE45>0.015476190</DEGREE45>
+        <DEGREE135>0.015274725</DEGREE135>
+        <NONDIRECTIONAL>0.010512820</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.279275537</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>allWhite.jpg</FILENAME>
+    <luminance>255.000000000</luminance>
+    <color>
+        <RED>255</RED>
+        <GREEN>255</GREEN>
+        <BLUE>255</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.000000000</VERTICAL>
+        <HORIZONTAL>0.000000000</HORIZONTAL>
+        <DEGREE45>0.000000000</DEGREE45>
+        <DEGREE135>0.000000000</DEGREE135>
+        <NONDIRECTIONAL>0.000000000</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.000000000</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09302.jpg</FILENAME>
+    <luminance>173.035995483</luminance>
+    <color>
+        <RED>188</RED>
+        <GREEN>170</GREEN>
+        <BLUE>152</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.007100000</VERTICAL>
+        <HORIZONTAL>0.003000000</HORIZONTAL>
+        <DEGREE45>0.006388889</DEGREE45>
+        <DEGREE135>0.002922222</DEGREE135>
+        <NONDIRECTIONAL>0.000955556</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.294566035</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09305.jpg</FILENAME>
+    <luminance>175.527206421</luminance>
+    <color>
+        <RED>194</RED>
+        <GREEN>172</GREEN>
+        <BLUE>147</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.007044444</VERTICAL>
+        <HORIZONTAL>0.008222222</HORIZONTAL>
+        <DEGREE45>0.009711111</DEGREE45>
+        <DEGREE135>0.006600000</DEGREE135>
+        <NONDIRECTIONAL>0.003811111</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.293748766</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09307.jpg</FILENAME>
+    <luminance>172.647079468</luminance>
+    <color>
+        <RED>184</RED>
+        <GREEN>171</GREEN>
+        <BLUE>154</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.011344444</VERTICAL>
+        <HORIZONTAL>0.007155556</HORIZONTAL>
+        <DEGREE45>0.011400000</DEGREE45>
+        <DEGREE135>0.008200000</DEGREE135>
+        <NONDIRECTIONAL>0.005522222</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.297998160</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09310.jpg</FILENAME>
+    <luminance>185.451919556</luminance>
+    <color>
+        <RED>201</RED>
+        <GREEN>183</GREEN>
+        <BLUE>158</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.012844444</VERTICAL>
+        <HORIZONTAL>0.009433334</HORIZONTAL>
+        <DEGREE45>0.015633333</DEGREE45>
+        <DEGREE135>0.012133333</DEGREE135>
+        <NONDIRECTIONAL>0.004533333</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.324145734</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09311.jpg</FILENAME>
+    <luminance>178.958587646</luminance>
+    <color>
+        <RED>195</RED>
+        <GREEN>176</GREEN>
+        <BLUE>157</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>1</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.014544444</VERTICAL>
+        <HORIZONTAL>0.015144444</HORIZONTAL>
+        <DEGREE45>0.019544445</DEGREE45>
+        <DEGREE135>0.017833333</DEGREE135>
+        <NONDIRECTIONAL>0.007111111</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.343033910</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09315.jpg</FILENAME>
+    <luminance>177.684875488</luminance>
+    <color>
+        <RED>200</RED>
+        <GREEN>174</GREEN>
+        <BLUE>147</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.006355556</VERTICAL>
+        <HORIZONTAL>0.006377778</HORIZONTAL>
+        <DEGREE45>0.008255555</DEGREE45>
+        <DEGREE135>0.007177778</DEGREE135>
+        <NONDIRECTIONAL>0.001433333</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.291930884</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09316.jpg</FILENAME>
+    <luminance>179.723892212</luminance>
+    <color>
+        <RED>196</RED>
+        <GREEN>177</GREEN>
+        <BLUE>153</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>1</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.013244445</VERTICAL>
+        <HORIZONTAL>0.016588889</HORIZONTAL>
+        <DEGREE45>0.019400001</DEGREE45>
+        <DEGREE135>0.016422221</DEGREE135>
+        <NONDIRECTIONAL>0.006522222</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.334737659</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09318.jpg</FILENAME>
+    <luminance>206.880249023</luminance>
+    <color>
+        <RED>207</RED>
+        <GREEN>206</GREEN>
+        <BLUE>208</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.006244444</VERTICAL>
+        <HORIZONTAL>0.005300000</HORIZONTAL>
+        <DEGREE45>0.007422222</DEGREE45>
+        <DEGREE135>0.005166667</DEGREE135>
+        <NONDIRECTIONAL>0.002344444</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.189139500</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09320.jpg</FILENAME>
+    <luminance>202.565521240</luminance>
+    <color>
+        <RED>204</RED>
+        <GREEN>201</GREEN>
+        <BLUE>203</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>1</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.004900000</VERTICAL>
+        <HORIZONTAL>0.005988889</HORIZONTAL>
+        <DEGREE45>0.007022222</DEGREE45>
+        <DEGREE135>0.005122222</DEGREE135>
+        <NONDIRECTIONAL>0.002144445</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.170166045</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09322.jpg</FILENAME>
+    <luminance>203.914077759</luminance>
+    <color>
+        <RED>219</RED>
+        <GREEN>201</GREEN>
+        <BLUE>181</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.011255556</VERTICAL>
+        <HORIZONTAL>0.008988889</HORIZONTAL>
+        <DEGREE45>0.008288889</DEGREE45>
+        <DEGREE135>0.009988889</DEGREE135>
+        <NONDIRECTIONAL>0.013722222</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.286396265</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09324.jpg</FILENAME>
+    <luminance>190.323852539</luminance>
+    <color>
+        <RED>206</RED>
+        <GREEN>187</GREEN>
+        <BLUE>168</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.016566666</VERTICAL>
+        <HORIZONTAL>0.010711111</HORIZONTAL>
+        <DEGREE45>0.017733334</DEGREE45>
+        <DEGREE135>0.014455556</DEGREE135>
+        <NONDIRECTIONAL>0.005600000</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.304056764</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09326.jpg</FILENAME>
+    <luminance>171.314987183</luminance>
+    <color>
+        <RED>187</RED>
+        <GREEN>168</GREEN>
+        <BLUE>151</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.023755556</VERTICAL>
+        <HORIZONTAL>0.017111111</HORIZONTAL>
+        <DEGREE45>0.023422223</DEGREE45>
+        <DEGREE135>0.017277777</DEGREE135>
+        <NONDIRECTIONAL>0.017800000</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.349441946</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09327.jpg</FILENAME>
+    <luminance>172.322402954</luminance>
+    <color>
+        <RED>190</RED>
+        <GREEN>168</GREEN>
+        <BLUE>152</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.011600000</VERTICAL>
+        <HORIZONTAL>0.007922222</HORIZONTAL>
+        <DEGREE45>0.011033333</DEGREE45>
+        <DEGREE135>0.007466667</DEGREE135>
+        <NONDIRECTIONAL>0.006744444</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.318778992</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09329.jpg</FILENAME>
+    <luminance>164.317733765</luminance>
+    <color>
+        <RED>176</RED>
+        <GREEN>162</GREEN>
+        <BLUE>147</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.013011111</VERTICAL>
+        <HORIZONTAL>0.011033333</HORIZONTAL>
+        <DEGREE45>0.015011111</DEGREE45>
+        <DEGREE135>0.012200000</DEGREE135>
+        <NONDIRECTIONAL>0.006888889</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.313102484</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09330.jpg</FILENAME>
+    <luminance>209.951034546</luminance>
+    <color>
+        <RED>224</RED>
+        <GREEN>209</GREEN>
+        <BLUE>175</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.010677778</VERTICAL>
+        <HORIZONTAL>0.007666667</HORIZONTAL>
+        <DEGREE45>0.010700000</DEGREE45>
+        <DEGREE135>0.008566666</DEGREE135>
+        <NONDIRECTIONAL>0.007577778</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.323425323</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09334.jpg</FILENAME>
+    <luminance>172.035766602</luminance>
+    <color>
+        <RED>192</RED>
+        <GREEN>168</GREEN>
+        <BLUE>142</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.006722222</VERTICAL>
+        <HORIZONTAL>0.006300000</HORIZONTAL>
+        <DEGREE45>0.008344444</DEGREE45>
+        <DEGREE135>0.007777778</DEGREE135>
+        <NONDIRECTIONAL>0.001911111</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.291861683</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09336.jpg</FILENAME>
+    <luminance>189.363952637</luminance>
+    <color>
+        <RED>210</RED>
+        <GREEN>185</GREEN>
+        <BLUE>162</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.015688889</VERTICAL>
+        <HORIZONTAL>0.007500000</HORIZONTAL>
+        <DEGREE45>0.012866667</DEGREE45>
+        <DEGREE135>0.010666667</DEGREE135>
+        <NONDIRECTIONAL>0.007544444</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.323682755</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09337.jpg</FILENAME>
+    <luminance>179.659500122</luminance>
+    <color>
+        <RED>208</RED>
+        <GREEN>173</GREEN>
+        <BLUE>154</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.013133333</VERTICAL>
+        <HORIZONTAL>0.013600000</HORIZONTAL>
+        <DEGREE45>0.015000000</DEGREE45>
+        <DEGREE135>0.012055555</DEGREE135>
+        <NONDIRECTIONAL>0.007000000</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.325009882</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09341.jpg</FILENAME>
+    <luminance>167.476150513</luminance>
+    <color>
+        <RED>189</RED>
+        <GREEN>163</GREEN>
+        <BLUE>143</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.011233333</VERTICAL>
+        <HORIZONTAL>0.010977778</HORIZONTAL>
+        <DEGREE45>0.013544444</DEGREE45>
+        <DEGREE135>0.009477777</DEGREE135>
+        <NONDIRECTIONAL>0.004133333</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.321772844</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09343.jpg</FILENAME>
+    <luminance>176.949920654</luminance>
+    <color>
+        <RED>191</RED>
+        <GREEN>174</GREEN>
+        <BLUE>157</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>1</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.012811111</VERTICAL>
+        <HORIZONTAL>0.010133334</HORIZONTAL>
+        <DEGREE45>0.014422222</DEGREE45>
+        <DEGREE135>0.010322222</DEGREE135>
+        <NONDIRECTIONAL>0.008888889</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.333022863</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09344.jpg</FILENAME>
+    <luminance>174.218017578</luminance>
+    <color>
+        <RED>187</RED>
+        <GREEN>172</GREEN>
+        <BLUE>155</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.010055556</VERTICAL>
+        <HORIZONTAL>0.008377777</HORIZONTAL>
+        <DEGREE45>0.011588889</DEGREE45>
+        <DEGREE135>0.007455556</DEGREE135>
+        <NONDIRECTIONAL>0.005266667</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.318504304</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>DSC09347.jpg</FILENAME>
+    <luminance>180.853393555</luminance>
+    <color>
+        <RED>189</RED>
+        <GREEN>179</GREEN>
+        <BLUE>171</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.010000000</VERTICAL>
+        <HORIZONTAL>0.004422222</HORIZONTAL>
+        <DEGREE45>0.006566667</DEGREE45>
+        <DEGREE135>0.013466666</DEGREE135>
+        <NONDIRECTIONAL>0.006833334</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.330806136</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>plane.jpg</FILENAME>
+    <luminance>144.694198608</luminance>
+    <color>
+        <RED>132</RED>
+        <GREEN>148</GREEN>
+        <BLUE>143</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.001462500</VERTICAL>
+        <HORIZONTAL>0.003358333</HORIZONTAL>
+        <DEGREE45>0.002554167</DEGREE45>
+        <DEGREE135>0.002966667</DEGREE135>
+        <NONDIRECTIONAL>0.002937500</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.223918989</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>random1.jpg</FILENAME>
+    <luminance>119.948120117</luminance>
+    <color>
+        <RED>90</RED>
+        <GREEN>127</GREEN>
+        <BLUE>132</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.004000824</VERTICAL>
+        <HORIZONTAL>0.006098538</HORIZONTAL>
+        <DEGREE45>0.007755532</DEGREE45>
+        <DEGREE135>0.007955859</DEGREE135>
+        <NONDIRECTIONAL>0.001825841</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.095648699</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>verticalLines.jpg</FILENAME>
+    <luminance>138.956192017</luminance>
+    <color>
+        <RED>139</RED>
+        <GREEN>138</GREEN>
+        <BLUE>141</BLUE>
+    </color>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <NUM_FACES>0</NUM_FACES>
+    <EDGES>
+        <VERTICAL>0.042483661</VERTICAL>
+        <HORIZONTAL>0.000000000</HORIZONTAL>
+        <DEGREE45>0.039215688</DEGREE45>
+        <DEGREE135>0.040869698</DEGREE135>
+        <NONDIRECTIONAL>0.000000000</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.147458404</TEXTURE>
+</FILE>
+<FILE>
+    <FILENAME>fingers.mov</FILENAME>
+    <keyWords>
+        <keyWord>key1: Alterar isto no ficheiro</keyWord>
+        <keyWord>key2: Alterar isto no ficheiro</keyWord>
+    </keyWords>
+    <EDGES>
+        <VERTICAL>0.002317708</VERTICAL>
+        <HORIZONTAL>0.006627604</HORIZONTAL>
+        <DEGREE45>0.005312500</DEGREE45>
+        <DEGREE135>0.005065104</DEGREE135>
+        <NONDIRECTIONAL>0.000846354</NONDIRECTIONAL>
+    </EDGES>
+    <TEXTURE>0.280917943</TEXTURE>
+    <luminance>113.635375977</luminance>
+    <color>
+        <RED>134</RED>
+        <GREEN>108</GREEN>
+        <BLUE>102</BLUE>
+    </color>
+    <NUM_FACES>0</NUM_FACES>
+</FILE>

@@ -1,0 +1,20 @@
+﻿D:\Faculdade\CM\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (obj\Win32\Debug\) contains files shared from another project (dirListExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  camera.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\proj\src\camera\camera.cpp(11,15): warning C4996: 'ofVideoGrabber::initGrabber': Use setup instead
+  imageAndVideo.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+videoInputD.lib(videoInput.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library bin\proj_debug.lib and object bin\proj_debug.exp
+  proj.vcxproj -> D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\proj\bin\proj_debug.exe
+  
+  	                   2	D:\Faculdade\CM\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\proj\bin\FreeImage.dll
+  
+  	                   1	D:\Faculdade\CM\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\proj\bin\fmod.dll
+  	  *EXTRA File 		 1733120	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\proj\bin\fmodL.dll
