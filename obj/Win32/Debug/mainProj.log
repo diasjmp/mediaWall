@@ -1,9 +1,0 @@
-﻿D:\Faculdade\CM\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (obj\Win32\Debug\) contains files shared from another project (dirListExample.vcxproj, layout.vcxproj, proj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  mainProj.vcxproj -> D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\mainProj\bin\mainProj_debug.exe
-  
-  	                   2	D:\Faculdade\CM\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
-  	  *EXTRA File 		 6018560	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\mainProj\bin\FreeImage.dll
-  
-  	                   1	D:\Faculdade\CM\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
-  	  *EXTRA File 		 1544704	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\mainProj\bin\fmod.dll
-  	  *EXTRA File 		 1733120	D:\Faculdade\CM\of_v0.11.2_vs2017_release\apps\myApps\mainProj\bin\fmodL.dll
